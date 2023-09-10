@@ -2,7 +2,7 @@
  <h1 align="center">Hi 👋, I'm Carl Conrad C. Declaro</h1>
 <h3 align="center">Passionate and Ambitious Student Programmer | Crafting Digital Solutions with Creativity and Precision | Mastering the Art of Code for a Bright Future</h3>
 
-- 🔭 I’m currently working on **Money Expenses Tracker**
+- 🔭 I’m currently working on ** Something**
 
 - 🌱 I’m currently learning **React, SpringBoot, Bootstrap, JavaFX, PHP, JS, CSS, HTML**
 
