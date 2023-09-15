@@ -1,11 +1,7 @@
 ### ALL GOOD 👋 
  <h1 align="center">Hi 👋, I'm Carl Conrad C. Declaro</h1>
 
-- 🔭 I’m currently working on ** Something**
 
-- 🌱 I’m currently learning **React, JavaFX, JS, CSS, HTML,JavaScript**
-
-- 💬 Ask me about **JAVA, JS**
 
 - 📫 How to reach me **carlconrad98071234@gmail.com**
 
