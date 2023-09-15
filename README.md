@@ -29,16 +29,8 @@
 </p>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=carlconraddeclaro&" alt="carlconraddeclaro" /></p>
-<p>Total Visitors: <span id="visitor-count">0</span></p>
- 
-
- <script src="visitor-counter.js"></script>
-
-
-
 
 
 <h4 align="center">Visitor's count 👀</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{sonlast}/count.svg" alt="sonlast :: Visitor's Count" /></p>
- 
+<p align="center"><img src="https://profile-counter.glitch.me/CarlConradDeclaro/count.svg" alt="CarlConradDeclaro :: Visitor's Count" /></p>
 
