@@ -29,4 +29,10 @@
 </p>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=carlconraddeclaro&" alt="carlconraddeclaro" /></p>
- 
+<p>Total Visitors: <span id="visitor-count">0</span></p>
+<script>
+  initVisitorCounter();
+</script>
+
+ <script src="visitor-counter.js"></script>
+
