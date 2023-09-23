@@ -31,17 +31,21 @@ in### ALL GOOD 👋
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=carlconraddeclaro&" alt="carlconraddeclaro" /></p>
 
 
+<h3 align="center">🐱 My Github stats:</h3>
 
-### 🐱My Github stats:
-![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=CarlConradDeclaro&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=CarlConradDeclaro&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"]" alt="Apoorv's github stats" /></p>
+
 <br> 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlConradDeclaro&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
- 
- <h4 align="center">Visitor's count 👀</h4>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlConradDeclaro&layout=compact&text_color=daf7dc&bg_color=151515" alt="Top Langs" />
+  </a>
+</p>
+
+<h4 align="center">Visitor's count 👀</h4>
+
 <p align="center"><img src="https://profile-counter.glitch.me/CarlConradDeclaro/count.svg" alt="CarlConradDeclaro :: Visitor's Count" /></p>
-
-
 
 
 
