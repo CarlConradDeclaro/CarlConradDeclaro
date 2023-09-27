@@ -31,9 +31,6 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=carlconraddeclaro&" alt="carlconraddeclaro" /></p>
 
 
-<h3 align="center">🐱 My Github stats:</h3>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=CarlConradDeclaro&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"]" alt="Apoorv's github stats" /></p>
 
 <br> 
 
