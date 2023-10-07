@@ -2,7 +2,6 @@
  <h1 align="center">Hi 👋, I'm Carl Conrad C. Declaro</h1>
 
 
-
 - 📫 How to reach me **carlconrad98071234@gmail.com**
   
 
