@@ -1,5 +1,5 @@
 ### ALL GOOD 👋 
- <h1 align="center">I'M CARL CONRAD DECLARO </h1> 
+ <h1 align="center">I'M CARL CONRAD DECLARO </h1>
 
 - 📫 How to reach me **carlconrad98071234@gmail.com**
 
