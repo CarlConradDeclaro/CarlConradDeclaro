@@ -2,10 +2,20 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=35&duration=4000&pause=1000&color=BA55D3&center=true&vCenter=true&width=600&height=60&lines=%F0%9F%92%A5+CARL+CONRAD+DECLARO+%F0%9F%92%A5" alt="Cyberpunk Header" />
 </h1>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJtY3R5d2FyYzF0d2V1b2R2dGJ5dGQ2dGx3aGJ0bW5xZ2V5dWZ6eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
-</div>
+
  
+  
+## 👨‍💻 Computer Science Student
+  
+- 🎓 Currently pursuing a degree in Computer Science
+- 🌱 Learning and growing in both frontend and backend technologies
+- 💼 Building projects to enhance my skills and portfolio
+- 🚀 Passionate about creating efficient, user-friendly applications
+- 🔍 Always exploring new technologies and development methodologies
+
+ 
+## 
+
 <br/>
  
 <p align="center"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> </p>
@@ -46,7 +56,10 @@
 </p>
 
 
-
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJtY3R5d2FyYzF0d2V1b2R2dGJ5dGQ2dGx3aGJ0bW5xZ2V5dWZ6eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+</div>
+ 
 
 
 
