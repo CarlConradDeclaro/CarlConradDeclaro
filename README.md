@@ -8,6 +8,7 @@
 ## 👨‍💻 Computer Science Student
   
 - 🎓 Currently pursuing a degree in Computer Science
+- - 💻 Specializing in web and app development
 - 🌱 Learning and growing in both frontend and backend technologies
 - 💼 Building projects to enhance my skills and portfolio
 - 🚀 Passionate about creating efficient, user-friendly applications
