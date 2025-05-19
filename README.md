@@ -44,22 +44,11 @@
 
 <div align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=carlconraddeclaro&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&text_color=8A2BE2&icon_color=00FFFF&title_color=BA55D3" width="45%" />
- <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=carlconraddeclaro&theme=radical&hide_border=true&background=0d1117&ring=BA55D3&fire=00FFFF&currStreakLabel=FFFFFF" /> </div><div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlconraddeclaro&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=BA55D3&text_color=FFFFFF" /> </div>
+ <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=carlconraddeclaro&theme=radical&hide_border=true&background=0d1117&ring=BA55D3&fire=00FFFF&currStreakLabel=FFFFFF" /> </div> 
 
 
 
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=⚡+Frontend+Dev+in+Progress;+🚀+Exploring+App+Development;+👾+Fueled+by+Code+and+Caffeine" alt="Typing SVG" />
-</p>
-
-
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJtY3R5d2FyYzF0d2V1b2R2dGJ5dGQ2dGx3aGJ0bW5xZ2V5dWZ6eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
-</div>
  
-
 
 
 
