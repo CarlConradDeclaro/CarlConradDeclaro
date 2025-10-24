@@ -9,7 +9,6 @@
 > 💻 Specializing in **web and mobile app development**  
 > 🌱 Constantly learning across **frontend & backend** stacks  
 > 💼 Building **AI-integrated projects** for real-world use  
-> ⚡ Passionate about **cyberpunk aesthetics & futuristic UI**  
 > 🧩 Always exploring **new frameworks and tools**
 
 ---
@@ -74,10 +73,11 @@
 
   <!-- Profile Details -->
   <div style="width: 300px;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CarlConradDeclaro&theme=github_dark" 
+    <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CarlConradDeclaro&theme=github_dark" 
          width="100%" 
          height="200px" 
-         style="object-fit: contain;" />
+         style="object-fit: contain;" /> -->
+     <img src="https://streak-stats.demolab.com?user=CarlConradDeclaro&theme=tokyonight&hide_border=true&border_radius=10" width="400" alt="GitHub Streak" /> </td> </tr> <tr> <!-- Top Languages --> <td colspan="2" align="center"> 
   </div>
   
   <!-- Inline Stats -->
@@ -85,8 +85,13 @@
     <p>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CarlConradDeclaro&theme=github_dark" width="34.5%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CarlConradDeclaro&theme=github_dark" width="34.5%" />
+     
 </p>
   </div>
+
+  
+
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlConradDeclaro&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" width="500" alt="Top Languages" /> -->
 
 </div>
 
