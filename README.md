@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=35&duration=4000&pause=1000&color=BA55D3&center=true&vCenter=true&width=600&height=60&lines=%F0%9F%92%A5+CARL+CONRAD+DECLARO+%F0%9F%92%A5" alt="Cyberpunk Header" />
 </h1>
 
----
+ 
 
 ### 🧠 About Me  
 
@@ -67,18 +67,12 @@
   
  
 
----
+ 
  ## 📊 GitHub Analytics  
   <div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
 
   <!-- Profile Details -->
-  <div style="width: 300px;">
-    <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CarlConradDeclaro&theme=github_dark" 
-         width="100%" 
-         height="200px" 
-         style="object-fit: contain;" /> -->
-     <img src="https://streak-stats.demolab.com?user=CarlConradDeclaro&theme=tokyonight&hide_border=true&border_radius=10" width="400" alt="GitHub Streak" /> </td> </tr> <tr> <!-- Top Languages --> <td colspan="2" align="center"> 
-  </div>
+
   
   <!-- Inline Stats -->
   <div  >
@@ -88,7 +82,13 @@
      
 </p>
   </div>
-
+  <div style="width: 300px;">
+    <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CarlConradDeclaro&theme=github_dark" 
+         width="100%" 
+         height="200px" 
+         style="object-fit: contain;" /> -->
+     <img src="https://streak-stats.demolab.com?user=CarlConradDeclaro&theme=tokyonight&hide_border=true&border_radius=10" width="600" alt="GitHub Streak" /> </td> </tr> <tr> <!-- Top Languages --> <td colspan="4" align="center"> 
+  </div>
   
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlConradDeclaro&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" width="500" alt="Top Languages" /> -->
